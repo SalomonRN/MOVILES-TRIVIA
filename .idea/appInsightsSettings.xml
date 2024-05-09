@@ -9,9 +9,9 @@
               <option name="connection">
                 <ConnectionSetting>
                   <option name="appId" value="com.example.trivia" />
-                  <option name="mobileSdkAppId" value="1:849441301705:android:82e61826b316bc6756d918" />
-                  <option name="projectId" value="trivia-2b484" />
-                  <option name="projectNumber" value="849441301705" />
+                  <option name="mobileSdkAppId" value="1:739793864137:android:56345b6c43ac4f11359418" />
+                  <option name="projectId" value="trivia-62cc9" />
+                  <option name="projectNumber" value="739793864137" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "849441301705",
-    "project_id": "trivia-2b484",
-    "storage_bucket": "trivia-2b484.appspot.com"
+    "project_number": "739793864137",
+    "firebase_url": "https://trivia-62cc9-default-rtdb.firebaseio.com",
+    "project_id": "trivia-62cc9",
+    "storage_bucket": "trivia-62cc9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:849441301705:android:82e61826b316bc6756d918",
+        "mobilesdk_app_id": "1:739793864137:android:56345b6c43ac4f11359418",
         "android_client_info": {
           "package_name": "com.example.trivia"
         }
@@ -15,7 +16,26 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDOrvLEMgzBij5zlCJtJwHu4jci4_BtxLE"
+          "current_key": "AIzaSyBjxlPf3lM4QsSPPJMrIO02pDH0UP6K1mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739793864137:android:bb42cbe43a9cabb3359418",
+        "android_client_info": {
+          "package_name": "com.example.triviaflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxlPf3lM4QsSPPJMrIO02pDH0UP6K1mY"
         }
       ],
       "services": {
